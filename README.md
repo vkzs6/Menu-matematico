@@ -22,7 +22,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone .....
+git clone [.....](https://github.com/vkzs6/Menu-matematico/blob/main/main.cpp)
 
 # entrar na pasta do projeto
 
