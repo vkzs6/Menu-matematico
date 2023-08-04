@@ -30,6 +30,9 @@ git clone .....
 # executar o projeto em nuvém ou em um software de compilação.
 
 ```
+# Referencias
+
+Universidade do Vale do Itajaí, Campus Itajaí - UNIVALI
 
 # Autor
 
