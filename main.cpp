@@ -7,7 +7,6 @@ int main() {
 
   int tabu = 1, n = 1, result = 0, usere = 1, menu = 1, input, order, nf,
       res = 1;
-  ;
 
   do {
     cout << "\n==> MENU ARITMÉTICO";
