@@ -64,7 +64,7 @@ int main() {
       system("clear"); // Limpa o terminal
 
       cout << "Equipe de desenvolvimento: \n";
-      cout << "- Arthur Queiroz.\n";
+      cout << "- Arthur de Queiroz.\n";
       cout << "Mês/Ano: Julho/2023.\n";
       cout << "Projeto: Algoritmos e Programação.\n" << endl;
 
